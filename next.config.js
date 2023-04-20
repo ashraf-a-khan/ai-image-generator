@@ -8,6 +8,7 @@ const nextConfig = {
             "links.papareact.com",
             "aiimagegeneratoras443e1d.blob.core.windows.net",
         ],
+        unoptimized: true,
     },
 };
 
